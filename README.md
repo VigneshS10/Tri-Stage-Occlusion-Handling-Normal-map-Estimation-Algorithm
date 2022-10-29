@@ -39,13 +39,8 @@ preprocessed input image is sent to the normal map estimation model
 
 https://user-images.githubusercontent.com/61982600/198841628-c79d56c3-103b-4078-99aa-8b19621eb040.mp4
 
-
-## Contact
-For any queries, feel free to contact at vignesh.nitt10@gmail.com.
-
 ## TODO
 
-- Still to come:
   * [ ] Upload complete end-to-end pipeline code (not included right now because further improvements are being made).
   * [ ] Include background occlusion handler code (not included right now because more advanced and better architectures are being explored).
   * [ ] Handle object occlusion.
@@ -55,3 +50,6 @@ For any queries, feel free to contact at vignesh.nitt10@gmail.com.
 https://github.com/tensorflow/models/tree/master/research/deeplab \
 https://github.com/xinntao/Real-ESRGAN \
 https://github.com/facebookresearch/pifuhd 
+
+## Contact
+For any queries, feel free to contact at vignesh.nitt10@gmail.com.
