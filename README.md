@@ -38,5 +38,6 @@ https://user-images.githubusercontent.com/61982600/198841628-c79d56c3-103b-4078-
 For any queries, feel free to contact at vignesh.nitt10@gmail.com.
 
 ## References
-https://github.com/facebookresearch/pifuhd
+
+https://github.com/facebookresearch/pifuhd \
 https://github.com/xinntao/Real-ESRGAN
