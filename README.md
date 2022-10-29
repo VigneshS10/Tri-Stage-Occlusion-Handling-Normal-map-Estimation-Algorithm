@@ -10,7 +10,7 @@
 
 ---
 
-> This repository is the official implementation of the TSOHNMEA. The project report can be viewed using this [link](https://drive.google.com/file/d/1FKWe7SpYEyDQn0eXGucMvCyW7rve7kDI/view?usp=share_link). Complete end-to-end pipeline code is not included.
+> This repository is the official implementation of the TSOHNMEA. The project report can be viewed using this [link](https://drive.google.com/file/d/1FKWe7SpYEyDQn0eXGucMvCyW7rve7kDI/view?usp=share_link). Complete end-to-end pipeline code is not included yet.
 
 ## Requirements
 
