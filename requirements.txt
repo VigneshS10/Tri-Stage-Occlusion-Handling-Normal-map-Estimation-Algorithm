@@ -7,3 +7,7 @@ Pillow
 torch>=1.7
 torchvision
 tqdm
+scikit-image  
+trimesh
+PyOpenGL
+ffmpeg
