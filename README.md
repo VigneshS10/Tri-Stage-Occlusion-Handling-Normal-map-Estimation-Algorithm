@@ -4,7 +4,7 @@
 
 **_SAMSUNG PRISM PROGRAM_**
 
-<img src="assets/architecture.png">
+![architecture](https://user-images.githubusercontent.com/61982600/198841785-56d72a24-a215-488f-b208-017add1480dd.PNG)
 
 </div>
 
