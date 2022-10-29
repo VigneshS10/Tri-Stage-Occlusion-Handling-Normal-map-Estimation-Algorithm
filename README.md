@@ -39,5 +39,6 @@ For any queries, feel free to contact at vignesh.nitt10@gmail.com.
 
 ## References
 
-https://github.com/facebookresearch/pifuhd \
-https://github.com/xinntao/Real-ESRGAN
+https://github.com/tensorflow/models/tree/master/research/deeplab \
+https://github.com/xinntao/Real-ESRGAN \
+https://github.com/facebookresearch/pifuhd 
